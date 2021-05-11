@@ -1,5 +1,5 @@
 # NITC_DSS_Automated_Teacher_Evaluation
-#Python implementation to complete teacher evaluation individually 
+# Python implementation to complete teacher evaluation individually 
 
 This is a Google Colab implementation of NITC-DSS-Automatic-Teacher-Evaluation by Afeedh Shaji
 
